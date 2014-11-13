@@ -1,0 +1,2 @@
+
+if your platform is mips, add "-fno-access-control" in your CXXFLAGS
